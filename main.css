@@ -27,7 +27,7 @@ body{
     height:100px;
     display:flex;
     margin:0 5% 0 5%;
-    text-align: center;
+    text-align:center;
 }
 
 .left-navbar{
@@ -329,7 +329,6 @@ justify-content: left;
     z-index: 1;
     background:rgba(12,13,14,0.6);
     text-align: right;
-    display:none;
     
 
     }
