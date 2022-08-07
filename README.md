@@ -1,4 +1,4 @@
-#Frontend Mentor-Blogr landing page solution
+#Frontend Mentor-Crowdfunding Product page solution
 This is the solution to the [Crowdfunding Product page challenge by Frontend Mentor](https://codeartist7071.github.io/crowdfunding-product-page/).
 
 
@@ -26,7 +26,7 @@ This is the solution to the [Crowdfunding Product page challenge by Frontend Men
 
 ### Links
 - Solution URL: [Solution](https://)
-- Live Site URL: [Blogr Site](https://codeartist7071.github.io/crowdfunding-product-page/).
+- Live Site URL: [Crowdfunding Product page Site](https://codeartist7071.github.io/crowdfunding-product-page/).
 
 ## My process
 
